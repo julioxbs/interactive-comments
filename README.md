@@ -1,2 +1,1 @@
-# interactive-comments
-Interactive comments section
+# Interactive comments section
